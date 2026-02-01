@@ -14,6 +14,7 @@
 This repository implements a **robust, research-grade comparison** between two state-of-the-art **financial scenario generation pipelines** for **portfolio risk optimization**:
 
 - **📉 Stochastic Volatility with Jumps (SVJ)**
+- **📉 Rgime Update with SVJ**
 - **📈 GARCH–LSTM Hybrid Model with EVT Tail Smoothing**
 
 The goal is to **generate realistic multi-asset return scenarios**, optimize portfolios under **CVaR constraints**, and evaluate **out-of-sample performance**.
