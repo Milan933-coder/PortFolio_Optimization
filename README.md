@@ -42,5 +42,5 @@ The goal is to **generate realistic multi-asset return scenarios**, optimize por
 .
 ├── GARCH_LSTM_SVJ.py   # Main experiment pipeline
 ├── svj_engine.py       # SVJ calibration & simulation engine
-├── metric.py            contsins different objective(CVaR,Sharpe,C-Sharpe)
+├── metric.py           # contains different objective(CVaR,Sharpe,C-Sharpe)
 └── README.md
