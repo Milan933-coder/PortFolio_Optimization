@@ -16,6 +16,7 @@ This repository implements a **robust, research-grade comparison** between two s
 - **📉 Stochastic Volatility with Jumps (SVJ)**
 - **📉 Rgime Update with SVJ**
 - **📈 GARCH–LSTM Hybrid Model with EVT Tail Smoothing**
+- **📈 GARCH–SSM Hybrid Model with EVT Tail Smoothing Needs Futher Improvement and  Ablation Studies on the Block Size **
 
 The goal is to **generate realistic multi-asset return scenarios**, optimize portfolios under **CVaR constraints**, and evaluate **out-of-sample performance**.
 
