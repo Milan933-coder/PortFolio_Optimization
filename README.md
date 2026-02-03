@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Finance](https://img.shields.io/badge/Domain-Quant%20Finance-green)
 ![ML](https://img.shields.io/badge/ML-LSTM%20%7C%20GARCH-orange)
+![ML](https://img.shields.io/badge/ML-SSM%20%7C%20GARCH-blue)
 ![Risk](https://img.shields.io/badge/Risk-CVaR-red)
 ![Status](https://img.shields.io/badge/Status-Research--Grade-purple)
 
