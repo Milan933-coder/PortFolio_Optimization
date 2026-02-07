@@ -1,10 +1,10 @@
-# 🚀 GARCH–LSTM vs SVJ  
+# 🚀 GARCH–LSTM vs SVJ vs GARCH-SSM
 ### Advanced Portfolio Simulation & CVaR Optimization Framework
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Finance](https://img.shields.io/badge/Domain-Quant%20Finance-green)
 ![ML](https://img.shields.io/badge/ML-LSTM%20%7C%20GARCH-orange)
-![ML](https://img.shields.io/badge/ML-SSM%20%7C%20GARCH-blue)
+![ML](https://img.shields.io/badge/ML-SSM(S6)%20%7C%20GARCH-blue)
 ![Risk](https://img.shields.io/badge/Risk-CVaR-red)
 ![Status](https://img.shields.io/badge/Status-Research--Grade-purple)
 
